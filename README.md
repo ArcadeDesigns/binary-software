@@ -1,2 +1,4 @@
 # binary-software
-This is a simple Binary software which makes use of multiple code structure
+### FX Signal Spot Binary Software
+
+This is a simple Software Application for trading Binary. 
